@@ -25,8 +25,8 @@ page_sections:
   headline: "<strong> Join us to spread the love </strong>"
   content: Too high to notice, but it's happening.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/09/18/1631019015307.png"
+    alt_text: Fat Blunts
 - template: hero-banner-w-image
   block: hero-2
   slug: features
