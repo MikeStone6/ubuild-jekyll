@@ -35,8 +35,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://discord.gg/4DBsB44Q
+    button_text: Discord Invite
   image:
     image: "/uploads/2021/09/18/1631528278768.png"
     alt_text: Peaceful view found
