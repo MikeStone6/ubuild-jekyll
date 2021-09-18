@@ -11,11 +11,10 @@ media:
 ---
 # 
 
-#        **Peaceful Pigeons roadmap**  
-
-#   
-              Different charities:  
+# **Peaceful Pigeons roadmap**
 
 # 
 
-![](/uploads/2021/09/18/kyleblueemoji.png)![](/uploads/2021/09/18/mikeredemoji.png)![](/uploads/2021/09/18/ryangreenemoji.png)
+              Different charities:  
+
+# 
