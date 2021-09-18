@@ -5,7 +5,7 @@ date: 2021-09-18 22:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/09/18/pigeon01.png"
+  logo: "/uploads/2021/09/18/peacefulpigeonsbanner.jpg"
   navigation:
   - link: https://discord.gg/4DBsB44Q
     link_text: Discord
