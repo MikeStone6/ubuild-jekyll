@@ -5,18 +5,16 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/09/18/peacefulpnight.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Discord
   - link: "#swap"
-    link_text: Swap
+    link_text: Twitter
   - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+    link_text: Road Map
   - link: "#blocks"
-    link_text: Blocks
+    link_text: "Project Save The World \U0001F30E"
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
