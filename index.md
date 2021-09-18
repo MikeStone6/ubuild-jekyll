@@ -37,7 +37,7 @@ page_sections:
     url: https://discord.gg/4DBsB44Q
     button_text: Discord Invite
   image:
-    image: "/uploads/2021/09/18/1631528278768.png"
+    image: "/uploads/2021/09/18/3emojismall.png"
     alt_text: Peaceful view found
   background_image: "/uploads/2021/09/18/1631528278768.png"
 - template: content-feature
