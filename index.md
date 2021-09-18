@@ -64,6 +64,6 @@ page_sections:
   image: "/uploads/2021/09/18/1631527805022.png"
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: <img src="/uploads/2021/09/18/3emojismall.png">
 
 ---
