@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/09/18/pigeon01.png"
   navigation:
-  - link: "/"
+  - link: https://discord.gg/4DBsB44Q
     link_text: Discord
   - link: "#swap"
     link_text: Twitter
