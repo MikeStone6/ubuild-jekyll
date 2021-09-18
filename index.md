@@ -11,7 +11,7 @@ page_sections:
     link_text: Discord
   - link: "#swap"
     link_text: Twitter
-  - link: "#customize"
+  - link: "/page/AboutPage.pg"
     link_text: Road Map
   - link: "#blocks"
     link_text: "Project Save The World \U0001F30E"
